@@ -1,16 +1,34 @@
-### Hi there 👋
+# 👋 gchinca
 
-<!--
-**gchinca/gchinca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy Cristina 
 
-Here are some ideas to get you started:
+## 👩 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre busco nuevos desafíos y oportunidades para crecer profesionalmente. Me encanta estar al tanto de las últimas tendencias y tecnologías en el campo de la analítica. Mi enfoque se centra en adquirir constantemente nuevas habilidades y conocimientos para mejorar mis capacidades analíticas. Soy curiosa, proactiva y me adapto rápidamente a los cambios. 
+
+## 🚀 Proyectos destacados
+
+- [Proyecto 1](enlace_al_proyecto_1): Descripción breve del proyecto y su importancia.
+- [Proyecto 2](enlace_al_proyecto_2): Descripción breve del proyecto y su importancia.
+- [Proyecto 3](enlace_al_proyecto_3): Descripción breve del proyecto y su importancia.
+
+## 🎓 Experiencia
+
+- Ingeniera de soporte
+  
+
+## 🛠️ Habilidades
+
+- Pensamiento analítico
+- Conocimiento de bases de datos: SQL
+- Visualización de datos: Python
+- Conocimiento de herramientas BI: Power BI y Tableau
+- Resolución de problemas
+- Comunicación efectiva
+
+
+## 📫 Contacto
+
+- Correo electrónico: 
+
+
