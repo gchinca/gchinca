@@ -29,6 +29,7 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 
 ## 📫 Contacto
 
-- Correo electrónico: 
+- Correo electrónico: gcpalau.proyectos@gmail.com
+- https://public.tableau.com/app/profile/gchinca
 
 
