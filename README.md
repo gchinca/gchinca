@@ -14,7 +14,11 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 
 ## 🎓 Experiencia
 
-- Ingeniera de soporte
+## Ingeniera de soporte de telecomunicaciones
+- Análisis de datos proyectos de instalación de equipos
+- Análisis de datos de proyectos de operación y mantenimiento de redes
+- Análisis de datos de redes de fibra óptica
+- Análisis de datos de interventorías
   
 
 ## 🛠️ Habilidades
