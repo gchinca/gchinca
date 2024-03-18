@@ -1,6 +1,4 @@
-# 👋 gchinca
-
-¡Hola! 👋 Soy Cristina 
+# ¡Hola! 👋 Soy Cristina 
 
 ## 👩 Sobre mí
 
@@ -8,7 +6,7 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 
 ## 🚀 Proyectos destacados
 
-- [Proyecto 1 Análisis Airbnb Lisboa 2022](https://github.com/gchinca/Airbnb-Lisboa):
+- [Proyecto Análisis Airbnb Lisboa 2022](https://github.com/gchinca/Airbnb-Lisboa):
   El proyecto tiene como objetivo realizar un análisis de datos sobre el mercado de Airbnb en la ciudad de Lisboa, se analiza la distribución geográfica de los alojamientos, sus características y si existen diferencias significativas en los precios según la ubicación y el tipo de propiedad.
 - [Proyecto 2](enlace_al_proyecto_2): Descripción breve del proyecto y su importancia.
 - [Proyecto 3](enlace_al_proyecto_3): Descripción breve del proyecto y su importancia.
@@ -25,11 +23,13 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 ## 🛠️ Habilidades
 
 - Pensamiento analítico
+- Resolución de problemas
+- Comunicación efectiva
+- Lifelong learner
+- Fácil adaptación a los equipos de trabajo
 - Conocimiento de bases de datos: SQL
 - Visualización de datos: Python
 - Conocimiento de herramientas BI: Power BI y Tableau
-- Resolución de problemas
-- Comunicación efectiva
 
 
 ## 📫 Contacto
