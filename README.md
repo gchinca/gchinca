@@ -17,14 +17,14 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
   </tr>
   <tr>
     <th style="text-align:center;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
       <a href="https://github.com/gchinca/Airbnb-Lisboa">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
         <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
       </a>
 </th>
   <th style="text-align:center;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
       <a href="https://github.com/gchinca/Airbnb-Lisboa">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
         <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
       </a>
 </th>
