@@ -6,15 +6,45 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 
 ## 🚀 Proyectos destacados
 
-- [Proyecto Análisis Airbnb Lisboa 2022](https://github.com/gchinca/Airbnb-Lisboa):
-  El proyecto tiene como objetivo realizar un análisis de datos sobre el mercado de Airbnb en la ciudad de Lisboa, se analiza la distribución geográfica de los alojamientos, sus características y si existen diferencias significativas en los precios según la ubicación y el tipo de propiedad.
-- [Proyecto Análisis clientes e-commerce](https://github.com/gchinca/e-commerce):
-  El objetivo principal del proyecto es proporcionar una comprensión detallada del comportamiento de compra de los clientes en diferentes países, identificando a aquellos clientes que son más valiosos para el negocio.
-- [Proyecto 3](enlace_al_proyecto_3): Descripción breve del proyecto y su importancia.
+<table>
+  <tr>
+    <th style="text-align:center; font-weight:bold;">Proyecto Análisis Airbnb Lisboa 2022</th>
+    <th style="text-align:center; font-weight:bold;">Proyecto Análisis clientes e-commerce</th>
+  </tr>
+  <tr>
+    <td> El proyecto tiene como objetivo realizar un análisis de datos sobre el mercado de Airbnb en la ciudad de Lisboa, se analiza la distribución geográfica de los alojamientos, sus características y si existen diferencias significativas en los precios según la ubicación y el tipo de propiedad.</td>
+    <td>El objetivo principal del proyecto es proporcionar una comprensión detallada del comportamiento de compra de los clientes en diferentes países, identificando a aquellos clientes que son más valiosos para el negocio.</td>
+  </tr>
+  <tr>
+    <th style="text-align:center;">
+      <a href="https://github.com/gchinca/Airbnb-Lisboa">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
+        <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
+      </a>
+</th>
+  <th style="text-align:center;">
+      <a href="https://github.com/gchinca/Airbnb-Lisboa">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
+        <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
+      </a>
+</th>
+  </tr>
+  <tr>
+    <td>Proyecto 3</td>
+    <td>Proyecto 4</td>
+  </tr>
+  <tr>
+    <td>Descripción del Proyecto 3</td>
+    <td>Descripción del Proyecto 4</td>
+  </tr>
+  <tr>
+    <td><a href="#">Enlace al Proyecto 3</a></td>
+    <td><a href="#">Enlace al Proyecto 4</a></td>
+  </tr>
+</table>
 
 ## 🎓 Experiencia
 Ingeniera de soporte en telecomunicaciones
-
 ## Proyecto administración de redes de fibra óptica
 - Lideré la recolección de datos de inventario lógico y físico de la red, utilizando métodos eficientes para recopilar información precisa sobre existencias y movimientos.
 - Implementé procedimientos para la manipulación de datos, incluida la limpieza y normalización de conjuntos de datos, garantizando la coherencia y la fiabilidad de la información.
@@ -46,9 +76,10 @@ Ingeniera de soporte en telecomunicaciones
 - Comunicación efectiva
 - Lifelong learner
 - Fácil adaptación a los equipos de trabajo
-- Conocimiento de bases de datos: SQL
-- Manipulación y visualización de datos: Excel y Python
-- Conocimiento de herramientas BI: Power BI y Tableau
+- Conocimiento de bases de datos: ![Static Badge](https://img.shields.io/badge/SQL-black)
+- Manipulación y visualización de datos: ![Static Badge](https://img.shields.io/badge/Excel-dark%20green)  ![Static Badge](https://img.shields.io/badge/Python-blue)
+- Conocimiento de herramientas BI: ![Static Badge](https://img.shields.io/badge/Power%20BI-yellow) ![Static Badge](https://img.shields.io/badge/Tableau-blue)
+
 
 
 ## 📫 Contacto
