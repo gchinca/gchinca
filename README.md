@@ -8,8 +8,8 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 
 <table>
   <tr>
-    <th style="text-align:center; font-weight:bold;">Proyecto Análisis Airbnb Lisboa 2022</th>
-    <th style="text-align:center; font-weight:bold;">Proyecto Análisis clientes e-commerce</th>
+    <th style="text-align:center; font-weight:bold;">Análisis Airbnb Lisboa 2022</th>
+    <th style="text-align:center; font-weight:bold;">Análisis clientes e-commerce</th>
   </tr>
   <tr>
     <td> El proyecto tiene como objetivo realizar un análisis de datos sobre el mercado de Airbnb en la ciudad de Lisboa, se analiza la distribución geográfica de los alojamientos, sus características y si existen diferencias significativas en los precios según la ubicación y el tipo de propiedad.</td>
@@ -18,6 +18,7 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
   <tr>
     <th style="text-align:center;">
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-blue">
       <a href="https://github.com/gchinca/Airbnb-Lisboa">
         <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
       </a>
@@ -30,7 +31,7 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 </th>
   </tr>
   <tr>
-    <td>Proyecto 3</td>
+    <th style="text-align:center; font-weight:bold;">Análisis de ganancias plataforma de transporte</th>
     <td>Proyecto 4</td>
   </tr>
   <tr>
@@ -38,8 +39,20 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
     <td>Descripción del Proyecto 4</td>
   </tr>
   <tr>
-    <td><a href="#">Enlace al Proyecto 3</a></td>
-    <td><a href="#">Enlace al Proyecto 4</a></td>
+    <tr>
+    <th style="text-align:center;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/SQL-black">
+      <a href="#">
+        <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
+      </a>
+</th>
+  <th style="text-align:center;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
+      <a href="#">
+        <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
+      </a>
+</th>
   </tr>
 </table>
 
