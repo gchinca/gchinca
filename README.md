@@ -47,7 +47,7 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
     <tr>
     <th style="text-align:center;">
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
-      <img alt="Static Badge" src="https://img.shields.io/badge/SQL-black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue">
       <a href="#">
         <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
       </a>
@@ -94,7 +94,7 @@ Ingeniera de soporte en telecomunicaciones
 - Comunicación efectiva
 - Lifelong learner
 - Fácil adaptación a los equipos de trabajo
-- Conocimiento de bases de datos: ![Static Badge](https://img.shields.io/badge/SQL-black)
+- Conocimiento de bases de datos: ![Static Badge](https://img.shields.io/badge/SQL-blue)
 - Manipulación y visualización de datos: ![Static Badge](https://img.shields.io/badge/Excel-dark%20green)  ![Static Badge](https://img.shields.io/badge/Python-blue)
 - Conocimiento de herramientas BI: ![Static Badge](https://img.shields.io/badge/Power%20BI-yellow) ![Static Badge](https://img.shields.io/badge/Tableau-blue)
 
