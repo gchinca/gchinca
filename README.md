@@ -30,7 +30,7 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 </th>
   <th style="text-align:center;">
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
-      <a href="https://github.com/gchinca/Airbnb-Lisboa">
+      <a href="https://github.com/gchinca/e-commerce.git">
         <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
       </a>
 </th>
