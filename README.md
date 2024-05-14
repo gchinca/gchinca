@@ -12,8 +12,8 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
     <th style="text-align:center; font-weight:bold;">Análisis clientes e-commerce</th>
   </tr>
   <tr>
-    <th style="text-align:center;"><img src="portada p1.jpg" alt="Análisis Airbnb Lisboa 2022" style="width:300px;height:260px;"></th> 
-    <th style="text-align:center;"><img src="portada p2.jpg" alt="Análisis clientes e-commerce" style="width:300px;height:260px;"></th>
+    <th style="text-align:center;"><img src="portada p1.jpg" alt="Análisis Airbnb Lisboa 2022" style="width:250px;height:210px;"></th> 
+    <th style="text-align:center;"><img src="portada p2.jpg" alt="Análisis clientes e-commerce" style="width:250px;height:210px;"></th>
      
   </tr>
   <tr>
