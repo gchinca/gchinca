@@ -12,8 +12,9 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
     <th style="text-align:center; font-weight:bold;">Análisis clientes e-commerce</th>
   </tr>
   <tr>
-    <td><img src="portada p1" alt="Análisis Airbnb Lisboa 2022"></td>
-    <td><img src="portada p2" alt="Análisis clientes e-commerce"></td>
+    <th style="text-align:center;"><img src="portada p1.jpg" alt="Análisis Airbnb Lisboa 2022" style="width:300px;height:260px;"></th> 
+    <th style="text-align:center;"><img src="portada p2.jpg" alt="Análisis clientes e-commerce" style="width:300px;height:260px;"></th>
+     
   </tr>
   <tr>
     <td> El proyecto tiene como objetivo realizar un análisis de datos sobre el mercado de Airbnb en la ciudad de Lisboa, se analiza la distribución geográfica de los alojamientos, sus características y si existen diferencias significativas en los precios según la ubicación y el tipo de propiedad.</td>
