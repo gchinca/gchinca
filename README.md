@@ -23,7 +23,9 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
   <tr>
     <th style="text-align:center;">
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-blue">
+     <a href="https://public.tableau.com/app/profile/gchinca/viz/AnlisisAirbnbLisboa2022/Dashboard1"> 
+       <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-blue">
+     </a>
       <a href="https://github.com/gchinca/Airbnb-Lisboa">
         <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
       </a>
