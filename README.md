@@ -40,7 +40,12 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
     <td>Proyecto 4</td>
   </tr>
   <tr>
-    <td>Descripción del Proyecto 3</td>
+    <th style="text-align:center;"><img src="portada p3.jpg" alt="Análisis Airbnb Lisboa 2022" style="width:250px;height:210px;"></th> 
+    
+     
+  </tr>
+  <tr>
+    <td>El objetivo del proyecto es identificar patrones y proporcionar insights que ayuden a determinar el escenario mas rentable.</td>
     <td>Descripción del Proyecto 4</td>
   </tr>
   <tr>
@@ -48,7 +53,7 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
     <th style="text-align:center;">
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
       <img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue">
-      <a href="#">
+      <a href="https://github.com/gchinca/app_transporte.git">
         <img src="https://img.shields.io/badge/CÓDIGO-Notebook-blue" alt="Badge de Código">
       </a>
 </th>
