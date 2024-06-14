@@ -2,7 +2,7 @@
 
 ## 👩 Sobre mí
 
-Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre busco nuevos desafíos y oportunidades para crecer profesionalmente. Me encanta estar al tanto de las últimas tendencias y tecnologías en el campo de la analítica de datos. Mi enfoque se centra en adquirir constantemente nuevas habilidades y conocimientos para mejorar mis capacidades analíticas. Soy curiosa, proactiva y me adapto rápidamente a los cambios. 
+Soy ingeniera electrónica apasionada por el análisis de datos. Siempre busco nuevos desafíos y oportunidades para crecer profesionalmente. Mi enfoque se centra en adquirir constantemente nuevas habilidades y conocimientos para mejorar mis capacidades analíticas. Soy curiosa, proactiva y me adapto rápidamente a los cambios. 
 
 ## 🚀 Proyectos destacados
 
@@ -71,27 +71,23 @@ Soy una ingeniera electrónica apasionada por el análisis de datos. Siempre bus
 ## 🎓 Experiencia
 Ingeniera de soporte en telecomunicaciones
 ## Proyecto administración de redes de fibra óptica
-- Lideré la recolección de datos de inventario lógico y físico de la red, utilizando métodos eficientes para recopilar información precisa sobre existencias y movimientos.
-- Implementé procedimientos para la manipulación de datos, incluida la limpieza y normalización de conjuntos de datos, garantizando la coherencia y la fiabilidad de la información.
-- Identifiqué y corregí errores en los registros de inventario, utilizando análisis detallados para detectar discrepancias y tomar medidas correctivas.
-- Generé informes periódicos sobre el estado de la red, proporcionando análisis en profundidad y recomendaciones para mejorar la gestión de inventarios.
+- Lideré la recolección, limpieza y normalización de datos de inventario físico y lógico de red, asegurando información precisa y coherente.
+- Identifiqué y corregí errores en registros de inventario, mejorando la precisión y la eficiencia operativa.
 - Desarrollé un dashboard para hacer seguimiento a los consumos de energía, permitiendo identificar desviaciones en el presupuesto y tomar medidas correctivas de manera oportuna.
 ## Proyecto instalación de equipos de telecomunicaciones
-- Realicé la recolección y limpieza de datos para proyectos de instalación.
+- Realicé la recolección y limpieza de datos para proyectos de instalación, asegurando la calidad de la información utilizada.
 - Presenté informes detallados de instalación, realizando seguimiento al progreso de las actividades, asegurando la calidad y cumplimiento de los estándares establecidos.
-- Utilicé habilidades de análisis de datos para identificar áreas de mejora en los procesos de instalación y tomar medidas correctivas según fuera necesario.
-- Trabajé en estrecha colaboración con los equipos del proyecto para garantizar que los plazos se cumplieran y que las instalaciones se completaran según lo previsto.
-## Proyecto operación y mantenimiento de redes de telecomunicaciones
-- Diseñé y desarrollé un dashboard para presentar al cliente el seguimiento del avance de actividades de mantenimiento.
-- Utilicé habilidades de análisis de datos para crear visualizaciones claras y significativas del progreso del proyecto.
-- Implementé funciones interactivas en el dashboard que permitieron al cliente explorar los datos en detalle y obtener información relevante sobre el cumplimiento del presupuesto y el estado de las actividades de mantenimiento.
-- Colaboré estrechamente con el equipo del proyecto y el cliente para asegurar que el dashboard cumpliera con sus necesidades y expectativas, realizando ajustes según fuera necesario.
-- Facilité sesiones de capacitación para el equipo del proyecto sobre cómo utilizar el dashboard de manera efectiva, asegurando su comprensión y satisfacción con el producto final.
+- Utilicé habilidades de análisis de datos para identificar áreas de mejora en los procesos de instalación y tomar medidas correctivas.
+- Colaboré con los equipos del proyecto para cumplir los plazos y completar las instalaciones según lo previsto.
+ ## Proyecto operación y mantenimiento de redes de telecomunicaciones
+- Diseñé y desarrollé un dashboard para seguimiento de actividades de mantenimiento, asegurando visualizaciones claras y significativas del progreso del proyecto.
+- Implementé funciones interactivas en el dashboard que permitieron al cliente explorar datos en detalle y obtener información relevante sobre presupuesto y estado de los mantenimientos.
+- Colaboré estrechamente con el equipo del proyecto y el cliente para asegurar que el dashboard cumpliera con sus necesidades, realizando ajustes según fuera necesario.
+- Facilité sesiones de capacitación para el equipo del proyecto sobre el uso efectivo del dashboard, asegurando su comprensión y satisfacción con el producto final.
 ## Proyecto interventoría de redes de fibra óptica
-- Diseñé y desarrollé un dashboard para presentar al cliente el informe final de la interventoría.
-- Utilicé habilidades de visualización de datos para crear un dashboard que resumiera de manera clara y concisa los hallazgos y recomendaciones clave del proyecto.
+- Diseñé y desarrollé un dashboard para presentar al cliente el informe final de la interventoría, resumiendo de manera clara y concisa los hallazgos y recomendaciones clave del proyecto.
 - Implementé funciones interactivas que permitieron al cliente explorar diferentes aspectos del informe final y profundizar en áreas de interés específicas.
-- Trabajé en estrecha colaboración con el equipo de interventoría para asegurar que el dashboard reflejara con precisión los resultados del proyecto y cumpliera con los requisitos del cliente.
+- Colaboré estrechamente con el equipo de interventoría para asegurar que el dashboard reflejara con precisión los resultados del proyecto y cumpliera con los requisitos del cliente.
   
 
 ## 🛠️ Habilidades
